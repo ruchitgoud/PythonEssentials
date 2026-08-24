@@ -2434,12 +2434,6 @@ age = -5  # Edge case: invalid
 - Day 5: File Handling, Exceptions
 - Day 6: Class and Objects and OOPS
 
-### Beyond This Course
-- Web Development (Django, Flask)
-- Data Science (Pandas, NumPy, Matplotlib)
-- Automation (Selenium, Automation scripts)
-- Machine Learning (scikit-learn, TensorFlow)
-
 ---
 
 ## ⚡ Quick Debugging Tips
@@ -2474,10 +2468,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-<div align="center">
-
 ### Created By Ruchit Goud
 
-[🔝 Back to Top](#-welcome-to-the-7-day-journey-of-mastering-python-basics-)
+---
 
+<div align="center">
+    [🔝 Back to Top](#-welcome-to-the-7-day-journey-of-mastering-python-basics-)
 </div>

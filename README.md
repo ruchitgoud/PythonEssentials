@@ -2478,6 +2478,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ### Created By Ruchit Goud
 
-[🔝 Back to Top]()
+[🔝 Back to Top](#-welcome-to-the-7-day-journey-of-mastering-python-basics-)
 
 </div>

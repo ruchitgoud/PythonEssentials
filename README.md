@@ -15,12 +15,12 @@ This repository is your complete companion for understanding Python fundamentals
 
 | Day | Topic | Difficulty | File |
 |-----|-------|-----------|------|
-| **Day 1** | [Print, Variables, Data Types & Conditionals](#day-1-print-variables-data-types--conditionals) | 🟢 Easy | `Day1.ipynb` |
-| **Day 2** | [Loops & Iterations, Lists & Tuples, Dictionary](#day-2-loops--iterations-lists--tuples-dictionary) | 🟡 Medium | `Day2.ipynb` |
-| **Day 3** | [Sets, Functions & Scope, Recursion](#day-3-sets-functions--scope-recursion) | 🟡 Medium | `Day3.ipynb` |
-| **Day 4** | [Recursion & BackTracking, Exception Handling](#day-4-recursion--backtracking) | 🟡 Medium | `Day4.ipynb` |
-| **Day 5** | [Exception Handling, HOF (Map, Filter, Reduce), Class & Objects](#day-5-functions--scope) | 🟡 Medium | `Day5.ipynb` |
-| **Day 6** | [OOPS, lambda Function](#day-6-file-handling--exceptions) | 🔴 Hard | `Day6.py` |
+| **Day 1** | [Print, Variables, Data Types & Conditionals](#day-1-print-variables-data-types--conditionals) | 🟢 Easy | `day1.ipynb` |
+| **Day 2** | [Loops & Iterations, Lists & Tuples, Dictionary](#day-2-loops--iterations-lists--tuples-dictionary) | 🟡 Medium | `day2.ipynb` |
+| **Day 3** | [Sets, Functions & Scope, Recursion](#day-3-sets-functions--scope-recursion) | 🟡 Medium | `day3.ipynb` |
+| **Day 4** | [Recursion & BackTracking, Exception Handling](#day-4-recursion--backtracking) | 🟡 Medium | `day4.ipynb` |
+| **Day 5** | [Exception Handling, HOF (Map, Filter, Reduce), Class & Objects](#day-5-functions--scope) | 🟡 Medium | `day5.ipynb` |
+| **Day 6** | [OOPS, lambda Function](#day-6-file-handling--exceptions) | 🔴 Hard | `day6.ipynb` |
 
 ---
 
@@ -53,7 +53,7 @@ By the end of this 7-day intensive, you will be able to:
 
 ## Day 1: Print, Variables, Data Types & Conditionals
 
-**Difficulty**: 🟢 **Easy** | **File**: `Day1.ipynb`
+**Difficulty**: 🟢 **Easy** | **File**: `day1.ipynb`
 
 ### 🎯 What You'll Learn
 - Master the **`print()` function** and output formatting
@@ -496,7 +496,7 @@ print(f"Grade: {grade}")
 
 ## Day 2: Loops & Iterations, Lists & Tuples, Dictionary
 
-**Difficulty**: 🟡 **Medium** | **File**: `Day2.ipynb`
+**Difficulty**: 🟡 **Medium** | **File**: `day2.ipynb`
 
 ### 🎯 What You'll Learn
 - Master **for loops** for iterating sequences and ranges
@@ -867,7 +867,7 @@ print(freqCalc)
 
 ## Day 3: Sets, Functions & Scope, Recursion
 
-**Difficulty**: 🟡 **Medium** | **File**: `Day3.ipynb`
+**Difficulty**: 🟡 **Medium** | **File**: `day3.ipynb`
 
 ### 🎯 What You'll Learn
 - Create and use **sets** (unordered, unique elements)
@@ -1261,7 +1261,7 @@ def learningCallStack(n):
  
 ## Day 4: Recursion & BackTracking
 
-**Difficulty**: 🟡 **Medium** | **File**: `Day4.ipynb`
+**Difficulty**: 🟡 **Medium** | **File**: `day4.ipynb`
 
 ### 🎯 What You'll Learn
 - Continue **recursion** — apply it to iterate over lists
@@ -1570,7 +1570,7 @@ except ZeroDivisionError:
 
 ## Day 5: Custom Exceptions, `finally`, Classes & Objects
 
-**Difficulty**: 🟡 **Medium** | **File**: `Day5.ipynb`
+**Difficulty**: 🟡 **Medium** | **File**: `day5.ipynb`
 
 ### 🎯 What You'll Learn
 - Create **custom exception classes** (e.g., `NegativeNumberError`)
@@ -1851,7 +1851,7 @@ class Circle:
 
 ## Day 6: The 4 Pillars of OOPS — Inheritance, Abstraction, Encapsulation, Polymorphism
 
-**Difficulty**: 🔴 **Hard** | **File**: `Day6.ipynb`
+**Difficulty**: 🔴 **Hard** | **File**: `day6.ipynb`
 
 ### 🎯 What You'll Learn
 - Revise **classes and objects**
@@ -2409,12 +2409,6 @@ age = -5  # Edge case: invalid
 - 💻 **PyCharm** - Full-featured, but heavier
 - 💻 **Jupyter Notebook** - Great for learning and visualization
 
-### Online Practice
-- 🌐 **HackerRank** - Interactive challenges
-- 🌐 **LeetCode** - Coding interview prep
-- 🌐 **CodeWars** - Gamified learning
-- 🌐 **Codacademy** - Interactive courses
-
 ### Documentation
 - 📖 **Python Official Docs** - [python.org](https://python.org)
 - 📖 **Real Python** - [realpython.com](https://realpython.com)
@@ -2473,5 +2467,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 <div align="center">
-    [🔝 Back to Top](#-welcome-to-the-7-day-journey-of-mastering-python-basics-)
+[🔝 Back to Top](#-welcome-to-the-7-day-journey-of-mastering-python-basics-)
 </div>

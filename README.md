@@ -2470,7 +2470,7 @@ print(f"Sum: {sum_part}, Diff: {diff_part}, Result: {result}")
 ---
 
 ## 📜 License
-
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 

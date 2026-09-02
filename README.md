@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 *Welcome to the 7-day journey of mastering Python Basics!* 🎯
+# 🚀 *Master Python Basics in Just One Week*
 
 ![Python](https://img.shields.io/badge/Python-Basics-3776AB?style=flat-square&logo=python)
 ![Level](https://img.shields.io/badge/Level-Beginner%20to%20Intermediate-yellow?style=flat-square)
@@ -9,6 +9,7 @@
 This repository is your complete companion for understanding Python fundamentals, from basic syntax to control flow. By the end of Day 7, you'll have hands-on experience with the essential Python concepts that form the foundation for any software development journey.
 
 ---
+
 </div>
 
 ## 📚 Quick Navigation
@@ -49,7 +50,6 @@ By the end of this 7-day intensive, you will be able to:
 ---
 
 # 📚 Day-by-Day Learning Modules
-
 
 ## Day 1: Print, Variables, Data Types & Conditionals
 

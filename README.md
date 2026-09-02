@@ -40,12 +40,10 @@ By the end of this 7-day intensive, you will be able to:
 ✅ **Build Real Projects**: Create functional programs from scratch  
 ✅ **Think Like a Programmer**: Problem-solving and debugging skills  
 
-### Prerequisites
+### Requirements
 
 - ✨ A computer with Python installed (3.8+)
 - ✨ Text editor or IDE (VS Code, PyCharm, or Jupyter)
-- ✨ Basic logical thinking ability
-- ✨ Curiosity to learn and experiment! 🧠
 
 ---
 
